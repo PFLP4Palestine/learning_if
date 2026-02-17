@@ -1,2 +1,8 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+#include <stdio.h>
+int main(){
+    int i=6;
+    if(i=6){
+        printf("i is 6\n");
+    }
+    return 0;
+}
